@@ -1,0 +1,19 @@
+{
+  "logo": "/static/logo-light.svg",
+  "tagline": "Candy Machine Template",
+  "cta": { "href": "/", "text": "Candy Machine Template" },
+  "social": [
+    {
+      "platform": "twitter",
+      "href": "https://twitter.com/bonk_world"
+    },
+    {
+      "platform": "discord",
+      "href": ""
+    }
+  ],
+  "madeBy": {
+    "text": "Stranzhay",
+    "href": "https://twitter.com/_nighthawk69_"
+  }
+}

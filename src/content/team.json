@@ -1,0 +1,17 @@
+{
+  "subtitle": "The Team",
+  "quotes": [
+    {
+      "jobTitle": "Your role here",
+      "name": "Your name",
+      "photo": "/static/solana_logo.jpeg",
+      "href": "https://twitter.com/"
+    },
+    {
+      "jobTitle": "Your role here",
+      "name": "Your name",
+      "photo": "/static/solana_logo.jpeg",
+      "href": "https://twitter.com/"
+    }
+  ]
+}
